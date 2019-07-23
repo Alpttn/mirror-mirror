@@ -1,0 +1,14 @@
+.article__container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3em;
+
+}
+
+#firstArticle {
+border: 2px solid blue
+}
+
+#secondArticle {
+    border: 2px solid red
+}
